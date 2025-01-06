@@ -18,7 +18,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yoogans&show_icons=true&count_private=true&theme=dracula" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yoogans&layout=compact&langs_count=5&theme=dracula" height="150" alt="Most Used Languages" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yoogans&theme=dracula&hide_border=false" height="150" alt="GitHub Streak" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yoogans&theme=dracula" height="150" alt="GitHub Activity Graph" />
 </div>
 
