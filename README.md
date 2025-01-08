@@ -23,13 +23,6 @@
 
 ---
 
-## 💡 Featured Projects
-- 🛋️ **[E-Commerce Laravel](https://github.com/yourusername/ecommerce-laravel)** - Online shop built with Laravel & MySQL.
-- 📚 **[File Storage API](https://github.com/yourusername/file-storage-api)** - Secure file storage API using PHP & AWS S3.
-- 🔍 **[Search Engine Clone](https://github.com/yourusername/search-engine-clone)** - A basic search engine built with Java & Spring Boot.
-
----
-
 ## 🛠️ Tech Stack
 <div align="center">
 <a href="https://www.php.net/" target="_blank">
