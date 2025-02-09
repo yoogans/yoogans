@@ -3,9 +3,6 @@
 
 ---
 
-<img align="center" height="350" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif" />
-
-
 ## 🚀 About Me
 - 🔬 Exploring **Spring Framework** and **Microservices Architecture**.
 - 🔧 Improving my skills in **Java Technologies** and **Web Application Development**.
